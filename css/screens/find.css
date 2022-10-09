@@ -105,7 +105,7 @@
     transform: none;
   }
   50% {
-    color: tomato;
+    color: rgb(26, 126, 173);
     transform: scale(1.5);
   }
   100% {
